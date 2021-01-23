@@ -4,6 +4,7 @@ import java.util.Scanner;
 class Armstrongornot{
 	
 	static void armstrongcheck(int n){
+		
 		int r,sum=0;
 		int temp = n;
 		while(n>0){
